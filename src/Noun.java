@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Noun {
-    public static double celsiusToFahrenheit (double celius) {
-        double fahrenheit = (9.0 / 5)*celius + 32;
+    public static double celsiusToFahrenheit (double celsius) {
+        double fahrenheit = (9.0 / 5)*celsius + 32;
         return fahrenheit;
     }
 
